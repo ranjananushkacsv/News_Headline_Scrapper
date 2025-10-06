@@ -19,3 +19,9 @@ A Python script that automatically fetches recent news headlines from multiple s
 - ElementTree: XML parsing for RSS feeds
 
 - OpenPyXL: Excel file formatting and styling
+
+## Running the project 
+```
+pip install -r requirements.txt
+python news_scraper.py
+```
